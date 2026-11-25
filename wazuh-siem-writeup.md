@@ -2,7 +2,7 @@
 
 **Автор:** upeachyu
 **Дата:** ноябрь 2026
-**Стек:** Wazuh 4.9 , Ubuntu Server, Windows Server 2022 (Evaluation), QEMU/KVM
+**Стек:** Wazuh 4.9, Ubuntu Server, Windows Server 2022 (Evaluation), QEMU/KVM
 
 ## Цель
 
